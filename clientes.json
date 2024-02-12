@@ -1,2 +1,17 @@
-[{"nome": "Lucas", "CPF": "000000000", "telefone": "0000000000", "e-mail": "mail.com", "endereco": "Rua azul"}]
-[{"nome": "Vanessa", "CPF": "000000000", "telefone": "000000000", "e-mail": "mail.com.br", "endereco": "Rua cinza"}]
+[
+    {
+        "nome": "Alan",
+        "CPF": "111",
+        "telefone": "1111111",
+        "e-mail": "alan@mail",
+        "endereco": "Rua Wake"
+    }
+][
+    {
+        "nome": "Jose",
+        "CPF": "222",
+        "telefone": "2222222",
+        "e-mail": "jose@bol",
+        "endereco": "Rua Jay"
+    }
+]

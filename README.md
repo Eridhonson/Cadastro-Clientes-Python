@@ -6,3 +6,9 @@ Capacidade de:
     #Alterar os dados de um cliente;
     #Apagar um cliente;
     #Mostrar todos os clientes na tela.
+
+Cronograma de trabalho:
+0.1. Criação e inserção dos dados no arquivo JSON.
+    0.1.1. Arquivo .json com erro End of file expected.
+    0.1.2. Reestruturação do código principal
+
